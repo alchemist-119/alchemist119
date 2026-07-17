@@ -2,229 +2,101 @@
 
 # 🔬 Alchemist 119
 
-## A Living Journal of Curiosity
-### 一本持續成長的好奇心日誌
+## 🌌 The Atomic Universe
+
+### 每一個問題，都值得被探索。
+
+*Every question is worth exploring.*
 
 ---
 
-### 🧪 Science × 🤖 AI × 💭 Thinking × 🎨 Comics
+**Curiosity × Reasoning × Storytelling**
 
----
-
-# Grow your understanding,
-# not just your answers.
-
-### 成長的，
-### 不是答案，
-### 而是理解世界的能力。
-
----
-
-> **Every comic begins with a question.**
-
-> **每一篇漫畫，都從一個問題開始。**
+用好奇探索，用推理理解，用故事分享。
 
 </div>
 
 ---
 
-# 👋 Welcome｜歡迎
+# 👋 Welcome
 
-## 🇹🇼 中文
+歡迎來到 **The Atomic Universe**。
 
-如果你正在尋找一個快速答案，
+這裡記錄著每一次提問、
+每一次思考，
+以及每一次新的發現。
 
-這裡可能不是最適合的地方。
-
-因為，
-
-這裡收藏的，
-
-不是答案。
-
-而是一個孩子如何透過提問、
-
-思考、
-
-犯錯、
-
-修正，
-
-最後慢慢理解世界。
-
-每一篇漫畫，
-
-都是真實思考旅程的一部分。
+希望每一個故事，
+都能讓科學變得更容易理解，也更有趣。
 
 ---
 
-## 🇺🇸 English
+# ✨ Newest
 
-If you're looking for quick answers,
-
-this may not be the right place.
-
-Because this repository is not about collecting answers.
-
-It is about documenting how curiosity grows into understanding.
-
-Every comic is part of a real thinking journey.
-
----
-
-# 📖 Every Comic Follows the Same Journey
-## 每一篇漫畫，都走過相同的旅程
-
----
-
-# 🌱 Seed｜起點
+> 最新的學習與創作
 
 <img src="comic1-why-this-github.png" width="100%">
 
-> **Every discovery begins with curiosity.**
-
-> **每一個發現，都從好奇開始。**
-
 ---
-
-# 🤖 Dialogue｜與 AI 一起思考
 
 <img src="comic2-thinking-with-ai.png" width="100%">
 
-> **AI doesn't replace my thinking.**
+---
 
-> **AI helps me improve it.**
+# 📚 Featured Comics
+
+## 👑 Comic Series #001
+
+### *The Mystery of Noble Gas Stability*
+
+<img src="cover-noble-gas.png" width="100%">
 
 ---
 
-# ⚔ Discovery｜理解世界
+## 🏰 Comic Series #002
+
+### *The Atomic Castle Crisis*
+
+<img src="cover-atomic-castle.png" width="100%">
+
+---
+
+# 💡 More to Explore
 
 <img src="comic3-element-showdown-gold-vs-iron.png" width="100%">
 
-> **Understanding becomes storytelling.**
-
-> **理解，最後變成故事。**
-
 ---
-
-# 🌳 Reflection｜反思
 
 <img src="comic4-thinking-diary.png" width="100%">
 
-> **Learning isn't about being right.**
-
-> **Learning is about becoming better at thinking.**
-
->
-
-> **真正的學習，**
-
-> **不是一直答對。**
-
-> **而是不斷修正自己的理解。**
-
 ---
 
-# ❤️ What We Believe｜我們相信
+## 🚀 Explore
 
-## 🇹🇼 中文
+📖 Comic Series
 
-知識可以搜尋。
+💭 Thinking Journals
 
-答案可以查詢。
+🤖 AI Conversations
 
-但是，
+🧪 Science Experiments
 
-真正重要的是：
-
-保持好奇。
-
-勇於提問。
-
-願意思考。
-
-接受修正。
-
-持續成長。
-
-希望有一天，
-
-有人因為看了這裡的一篇漫畫，
-
-開始問出自己的第一個：
-
-> **「為什麼？」**
-
-那就是這個 Repository 存在的理由。
-
----
-
-## 🇺🇸 English
-
-Knowledge can be searched.
-
-Facts can be memorized.
-
-Answers can be found.
-
-But curiosity,
-
-critical thinking,
-
-and the courage to revise ourselves
-
-must be cultivated.
-
-If someone leaves this repository
-
-asking one more meaningful question,
-
-then it has already achieved its purpose.
+🌍 Environmental Research
 
 ---
 
 <div align="center">
 
-# 🌟 Stay Curious.
+### 🌟 Stay Curious.
 
-## Keep Thinking.
+### 📚 Keep Learning.
 
-## Keep Revising.
-
----
-
-# We don't collect answers.
-
-# We collect better questions.
+### 🚀 Keep Exploring.
 
 ---
 
-# 我們收藏的，
+*One question can begin an amazing journey.*
 
-# 不是答案。
-
-# 而是越來越好的問題。
-
----
-
-### Every answer has a story.
-
-### We choose to share the story.
-
----
-
-### 每一個答案，
-
-### 都有一段思考的故事。
-
-### 我們選擇分享那段故事。
-
----
-
-Made with curiosity by
-
-# 🔬 Alchemist 119
-
-*A Living Journal of Curiosity.*
+**每一個問題，都是一場新的冒險。**
 
 </div>
