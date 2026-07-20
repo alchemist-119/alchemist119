@@ -1,223 +1,270 @@
 <div align="center">
 
-# 🔬 Alchemist 119
+# 🧪 Alchemist 119
 
-## 🌌 The Atomic Universe
-
-### Every Discovery Begins with a Question.
+### 🔬 Science × 🤖 AI × 💭 Thinking × 🎨 Comics
 
 # 每一個發現，都始於一個好問題。
 
-**🔬 Science × 🤖 AI × 💭 Thinking × 🎨 Comics**
-
-探索科學，不只是尋找答案，  
-更是培養勇於提問、試誤與修正的能力。
+### 分享的不只是科學知識，
+### 更是勇於提問、試誤與修正的思考歷程。
 
 ---
 
-*"Knowledge tells us what is known.*  
-*Thinking helps us discover what is unknown."*
+**Every Discovery Begins with a Question.**
 
 </div>
 
 ---
 
-# 👋 關於我
+# 👋 關於 Alchemist 119
 
-我是 **Alchemist 119**，一位熱愛科學的小六學生。
+大家好，我是 **Alchemist 119**。
 
-我喜歡問「為什麼」。
+我是一位小六學生，喜歡科學，也喜歡畫漫畫。
 
-我也喜歡把自己的思考過程畫成漫畫。
+我發現，真正讓我學會科學的，不是一次就答對。
 
-這個 GitHub 並不是一本標準答案，也不是 AI 幫我完成的作品集。
+而是一次又一次地：
 
-它記錄的是我真實的學習旅程。
+**提問、猜想、試誤、修正，再重新理解。**
 
-有時候，我會猜錯。
+所以，我決定把這些思考過程畫成漫畫。
 
-有時候，我會誤解一個科學概念。
-
-有時候，我需要一次又一次修正自己的想法。
-
-但正因為如此，我才慢慢理解：
-
-> **真正的學習，不是一次就答對。**
-
-> **而是在試誤中，一步一步接近真相。**
+希望分享給同學、老師，以及每一位喜歡學習的人。
 
 ---
 
-# 🌱 我希望分享的
+# 🌱 Alchemist 119 的學習方式
 
-我希望分享的，不只是科學知識。
+對我來說，
 
-更是一種學習的方法。
+**Alchemist 119** 不是一個角色，
 
-因為知識會一直更新，
+而是一種學習方式。
 
-但是勇於提問、願意修正、持續思考的能力，
+每一次遇到新的問題，
 
-會陪伴我們一輩子。
-
-如果我的漫畫能讓一位同學開始多問一句「為什麼？」，
-
-如果能讓一位老師願意鼓勵學生分享自己的猜想，
-
-那我就覺得，這個 GitHub 已經完成了它最重要的使命。
-
----
-
-# 💭 我的學習方式
-
-每一篇漫畫，都是從一個真正的問題開始。
+我都會努力完成這段旅程：
 
 ```text
 ❓ 提出問題
-      ↓
-💭 自己先思考與猜想
-      ↓
-🤖 和 AI 一起討論
-      ↓
-🔍 發現錯誤與盲點
-      ↓
+        │
+        ▼
+💭 自己先思考
+        │
+        ▼
+🤖 與 AI 一起討論
+        │
+        ▼
+❌ 發現自己的錯誤
+        │
+        ▼
 📚 查資料、重新推理
-      ↓
-💡 修正自己的理解
-      ↓
+        │
+        ▼
+🔄 修正自己的理解
+        │
+        ▼
 🎨 畫成漫畫分享
 ```
 
-> **AI 不替我思考。**
+AI 不會替我思考。
 
-> **AI 陪我一起思考。**
+真正思考的人，
+
+永遠是自己。
 
 ---
 
-# 📚 Comic Collection
+# 📚 漫畫作品
 
-## 🌱 Chapter 1｜我的學習旅程
+## 🌱 第一章｜我的學習旅程
 
-從「為什麼想建立 GitHub」開始，記錄我如何思考、試誤與成長。
+這四篇漫畫，記錄我如何開始學習，也記錄我的思考方式。
+
+### 為什麼建立 GitHub？
 
 ![](comic1-why-this-github.png)
 
+---
+
+### 我和 AI 一起思考
+
 ![](comic2-thinking-with-ai.png)
 
+---
+
+### 黃金 vs 鐵
+
 ![](comic3-element-showdown-gold-vs-iron.png)
+
+---
+
+### 思考日誌
 
 ![](comic4-thinking-diary.png)
 
 ---
 
-## 🚀 Chapter 2｜液態氧大冒險
+## 👑 第二章｜稀有氣體的故事
 
-一個問題，帶我展開六篇漫畫的探索。
+從一個「為什麼」開始，
 
-從燃燒、磁性、火箭，到氧氣如何液化，再到藍色固態氧。
+一路探索 Xe、XePtF₆ 與化學鍵的世界。
 
-![](liquid-oxygen-episode-1-burning-torch.png)
+### Xe 為什麼能形成 XePtF₆？
 
-![](liquid-oxygen-episode-2-charcoal.png)
-
-![](liquid-oxygen-episode-3-paramagnetism.png)
-
-![](liquid-oxygen-episode-4-rockets.png)
-
-![](liquid-oxygen-episode-5-liquefaction-process.png)
-
-![](liquid-oxygen-episode-6-solid-oxygen.png)
+![](cover-noble-gas.png)
 
 ---
 
-## 👑 Chapter 3｜原子王國
-
-把抽象的化學概念，變成故事。
-
-讓原子、電子與分子，也能成為主角。
-
-![](cover-noble-gas.png)
+### XePtF₆ 為什麼遇水會分解？
 
 ![](cover-atomic-castle.png)
 
 ---
 
-## 🌿 Chapter 4｜綠色化學
+## ❄️ 第三章｜液態氧大冒險
 
-植物如何變成燃料？
+從火把掉進液態氧開始，
 
-從纖維素酒精開始，理解永續能源背後的科學。
+一路探索氧分子的神奇世界。
+
+### Episode 1｜火把放進液態氧會怎樣？
+
+![](liquid-oxygen-episode-1-burning-torch.png)
+
+---
+
+### Episode 2｜木炭真的會變成液氧炸彈嗎？
+
+![](liquid-oxygen-episode-2-charcoal.png)
+
+---
+
+### Episode 3｜氧分子為什麼會被磁鐵吸住？
+
+![](liquid-oxygen-episode-3-paramagnetism.png)
+
+---
+
+### Episode 4｜火箭為什麼一定要帶液態氧？
+
+![](liquid-oxygen-episode-4-rockets.png)
+
+---
+
+### Episode 5｜如何把氧氣變成液體？
+
+![](liquid-oxygen-episode-5-liquefaction-process.png)
+
+---
+
+### Episode 6｜零下 218.8°C 的藍色晶體
+
+![](liquid-oxygen-episode-6-solid-oxygen.png)
+
+---
+
+### Episode 7｜α-氧：反鐵磁性的秘密
+
+![](liquid-oxygen-ep7-alpha-oxygen.png)
+
+---
+
+## 🌿 第四章｜綠色化學
+
+植物也能變成能源。
+
+每一次推理，都讓我更了解永續與化學。
+
+### 植物如何變成纖維素酒精？
 
 ![](cellulosic-ethanol-process.png)
+
+---
+
+### 為什麼不用強酸？
 
 ![](cellulosic-ethanol-thinking.png)
 
 ---
 
-## 💇 Chapter 5｜生活裡的化學
+## 💇 第五章｜生活中的化學
 
-科學，不只存在於實驗室。
+原來，
 
-它也藏在每天的生活裡。
+每天的生活，
+
+就是最好的科學教室。
+
+### 燙頭髮的化學
 
 ![](hair-perm-disulfide-bonds.png)
 
 ---
 
-# ❤️ 我相信
+# ❤️ 我想分享的
 
-每一位孩子，
+我希望分享的，
 
-都可以成為一位思考者。
+不只是科學知識。
 
-犯錯，不代表失敗。
+更是一種學習的方法。
 
-修正，也不是否定自己。
+因為知識可以從書本學到，
 
-每一次修正，
+但是：
 
-都是離真相更近的一步。
+**勇敢提問，**
+
+**願意試誤，**
+
+**持續修正，**
+
+**慢慢理解，**
+
+才是真正能陪伴我們一輩子的能力。
+
+如果有一天，
+
+我的漫畫能讓一位同學更勇敢提問，
+
+能讓一位老師更看重思考的過程，
+
+能讓更多人相信：
+
+> **錯誤不是失敗。**
+
+> **修正，就是成長。**
+
+那就是 **Alchemist 119** 最想做到的事情。
 
 ---
 
 <div align="center">
 
-# 🌟 Our Mission
+# 🌟 Alchemist 119
 
-**我們希望分享的，**
+### 分享的不只是科學知識，
 
-**不是一次就答對。**
-
-而是：
-
-🌱 勇敢提問
-
-💭 勇敢猜想
-
-🔍 勇敢修正
-
-❤️ 持續思考
+### 更是勇於提問、試誤與修正的思考歷程。
 
 ---
 
-## Every Discovery Begins with a Question.
+**保持好奇。**
 
-### 每一個發現，都始於一個好問題。
+**勇敢提問。**
 
----
+**勇敢試誤。**
 
-**Knowledge can be taught.**
+**持續修正。**
 
-**Thinking grows through curiosity, mistakes, and revision.**
-
----
-
-**知識可以傳授。**
-
-**思考，來自好奇、試誤與修正。**
+**享受思考。**
 
 ---
 
-**Stay Curious. Keep Thinking. Keep Revising.**
+### Every Discovery Begins with a Question.
 
 </div>
