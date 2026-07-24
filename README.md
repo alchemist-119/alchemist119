@@ -4,18 +4,16 @@
 
 ### 🔬 Science × 🤖 AI × 💭 Thinking × 🎨 Comics
 
-## 用科學，學會思考。
+# 用科學，學會思考。
 
-> **每一個發現，都始於一個好問題。**
+> **Every Discovery Begins with a Question.**
 
 一位小六學生，
-用漫畫記錄自己的思考旅程。
+用漫畫記錄提問、推理、試誤與修正。
 
 ---
 
-**Every Discovery Begins with a Question.**
-
-🌱 Curious ・ 🤝 Humble ・ 🔄 Flexible
+🌱 **Curious** ｜ 🤝 **Humble** ｜ 🔄 **Flexible**
 
 保持好奇｜保持謙遜｜保持彈性
 
@@ -23,33 +21,29 @@
 
 ---
 
-# 👋 關於 Alchemist 119
+# 👋 關於我
 
 大家好，我是 **Alchemist 119**。
 
-我喜歡科學，也喜歡思考。
+我喜歡科學，
 
-這裡分享的，
-
-不是標準答案，
-
-而是真實的思考過程。
+更喜歡思考。
 
 我相信，
 
-真正的學習，
+真正重要的，
 
-來自於：
+不是知道多少答案，
 
-**提問、推理、驗證、修正，再重新思考。**
+而是保持好奇，
 
-每一次修正，
+勇於修正，
 
-都讓自己更接近事實。
+一步一步，更接近事實。
 
 ---
 
-# 🌱 我的思考循環
+# 🌱 Learning Through Thinking
 
 ```text
 ❓ 提出問題
@@ -66,26 +60,28 @@
       ↓
 🔄 修正模型
       ↓
-🎨 畫成漫畫分享
+🎨 分享漫畫
       ↓
 ❓ 下一個問題
 ```
 
-AI 不替我思考。
-
-AI 陪我把問題想得更深、更清楚。
-
-真正重要的，
-
-不是永遠答對，
-
-而是一直保持學習。
+> **AI 不替我思考。**
+>
+> **AI 陪我提出更好的問題。**
 
 ---
 
-# 📚 Science Thinking Comics
+# 🌍 The Thinking Journey
 
-## 🌱 第一章｜我的學習旅程
+每一篇漫畫，
+
+都是一次思考練習。
+
+---
+
+# 🟡 第一章｜從生活開始提問
+
+> 每一個「為什麼」，都是新的開始。
 
 ### 為什麼建立 GitHub？
 
@@ -99,19 +95,39 @@ AI 陪我把問題想得更深、更清楚。
 
 ---
 
-### 黃金 vs 鐵
-
-![](comic3-element-showdown-gold-vs-iron.png)
-
----
-
 ### 思考日誌
 
 ![](comic4-thinking-diary.png)
 
 ---
 
-## 👑 第二章｜稀有氣體的故事
+### 燙頭髮的化學
+
+![](hair-perm-disulfide-bonds.png)
+
+---
+
+### 為什麼洋芋片要充氮氣？
+
+![](potato-chips-nitrogen-packaging.png)
+
+---
+
+# 🔵 第二章｜從微觀世界找原因
+
+> 真正的答案，常常藏在看不見的世界。
+
+### 黃金 vs 鐵
+
+![](comic3-element-showdown-gold-vs-iron.png)
+
+---
+
+### 氯氣與氦氣的極端溫度對決
+
+![](chlorine-vs-helium-liquefaction.png)
+
+---
 
 ### Xe 為什麼能形成 XePtF₆？
 
@@ -125,7 +141,25 @@ AI 陪我把問題想得更深、更清楚。
 
 ---
 
-## ❄️ 第三章｜液態氧大冒險
+# 🔴 第三章｜理解化學反應
+
+> 理解能量，才能理解反應。
+
+### 為什麼不能把水倒進濃硫酸？
+
+![](sulfuric-acid-water-mixing-safety.png)
+
+---
+
+### 為什麼氫氧混合氣體一點火就爆炸？
+
+![](hydrogen-oxygen-activation-energy.png)
+
+---
+
+# ❄️ 第四章｜探索極端世界
+
+> 探索極端，看見新的世界。
 
 ### Episode 1｜火把放進液態氧會怎樣？
 
@@ -169,7 +203,9 @@ AI 陪我把問題想得更深、更清楚。
 
 ---
 
-## 🌿 第四章｜綠色化學
+# 🌿 第五章｜永續與綠色化學
+
+> 讓科學，走進生活。
 
 ### 植物如何變成纖維素酒精？
 
@@ -183,35 +219,9 @@ AI 陪我把問題想得更深、更清楚。
 
 ---
 
-## 💇 第五章｜生活中的化學
+# 🧠 第六章｜Thinking Lab
 
-### 燙頭髮的化學
-
-![](hair-perm-disulfide-bonds.png)
-
----
-
-### 為什麼洋芋片要充氮氣？
-
-![](potato-chips-nitrogen-packaging.png)
-
----
-
-## ⚗️ 第六章｜化學反應的秘密
-
-### 為什麼不能把水倒進濃硫酸？
-
-![](sulfuric-acid-water-mixing-safety.png)
-
----
-
-### 為什麼氫氧混合氣體一點火就爆炸？
-
-![](hydrogen-oxygen-activation-energy.png)
-
----
-
-## 🧠 第七章｜Thinking Lab
+> 模型，永遠可以再修正。
 
 ### Episode 1｜從二氧化碳推測二硫化矽
 
@@ -229,37 +239,37 @@ AI 陪我把問題想得更深、更清楚。
 
 知識會更新。
 
-證據會增加。
+模型會修正。
 
-模型也會修正。
+真正重要的，
 
-真正值得培養的，
+不是一直正確，
 
-不是背更多答案，
+而是始終保持：
 
-而是擁有一輩子的學習力。
+🌱 **好奇**
 
-🌱 保持好奇（Curiosity）
+🤝 **謙遜**
 
-🤝 保持謙遜（Humility）
+🔄 **彈性**
 
-🔄 保持彈性（Flexibility）
+因為，
 
-勇於因新的證據修正自己的想法，
-
-一次又一次，
-
-更接近事實。
+**每一次修正，都是更接近事實的一步。**
 
 ---
 
 <div align="center">
 
-## Keep Curious.
-## Stay Humble.
-## Stay Flexible.
+## Learn Through Thinking.
 
-**Learn through thinking.**
+🌱 Keep Curious.
+
+🤝 Stay Humble.
+
+🔄 Stay Flexible.
+
+---
 
 **Every Discovery Begins with a Question.**
 
