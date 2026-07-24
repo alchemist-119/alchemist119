@@ -9,13 +9,9 @@
 > **Every Discovery Begins with a Question.**
 
 一位小六學生，
-用漫畫記錄提問、推理、試誤與修正。
-
----
+用漫畫記錄自己的思考旅程。
 
 🌱 **Curious** ｜ 🤝 **Humble** ｜ 🔄 **Flexible**
-
-保持好奇｜保持謙遜｜保持彈性
 
 </div>
 
@@ -25,21 +21,13 @@
 
 大家好，我是 **Alchemist 119**。
 
-我喜歡科學，
+我喜歡提問。
 
-更喜歡思考。
+也喜歡用科學思考。
 
-我相信，
+每一篇漫畫，
 
-真正重要的，
-
-不是知道多少答案，
-
-而是保持好奇，
-
-勇於修正，
-
-一步一步，更接近事實。
+都記錄著一次新的發現。
 
 ---
 
@@ -52,17 +40,13 @@
       ↓
 🧠 自己推理
       ↓
-🤖 與 AI 討論
+🤖 AI 一起討論
       ↓
 📚 尋找證據
       ↓
-❌ 發現反例
-      ↓
-🔄 修正模型
+🔄 修正想法
       ↓
 🎨 分享漫畫
-      ↓
-❓ 下一個問題
 ```
 
 > **AI 不替我思考。**
@@ -71,17 +55,13 @@
 
 ---
 
-# 🌍 The Thinking Journey
-
-每一篇漫畫，
-
-都是一次思考練習。
+# 📚 Comic Collection
 
 ---
 
-# 🟡 第一章｜從生活開始提問
+# 🟡 第一章｜從生活開始
 
-> 每一個「為什麼」，都是新的開始。
+> 從生活出發。
 
 ### 為什麼建立 GitHub？
 
@@ -107,15 +87,15 @@
 
 ---
 
-### 為什麼洋芋片要充氮氣？
+### 洋芋片為什麼充氮氣？
 
 ![](potato-chips-nitrogen-packaging.png)
 
 ---
 
-# 🔵 第二章｜從微觀世界找原因
+# 🔵 第二章｜探索微觀世界
 
-> 真正的答案，常常藏在看不見的世界。
+> 看見看不見的世界。
 
 ### 黃金 vs 鐵
 
@@ -123,9 +103,21 @@
 
 ---
 
-### 氯氣與氦氣的極端溫度對決
+### 氯氣 vs 氦氣
 
 ![](chlorine-vs-helium-liquefaction.png)
+
+---
+
+### 鐵與重金屬
+
+![](heavy-metal-molecular-imposters.png)
+
+---
+
+### 吃黃金為什麼沒事？
+
+![](gold-chemical-inertness-food-safety.png)
 
 ---
 
@@ -143,21 +135,21 @@
 
 # 🔴 第三章｜理解化學反應
 
-> 理解能量，才能理解反應。
+> 理解能量變化。
 
-### 為什麼不能把水倒進濃硫酸？
+### 濃硫酸與水
 
 ![](sulfuric-acid-water-mixing-safety.png)
 
 ---
 
-### 為什麼氫氧混合氣體一點火就爆炸？
+### 氫氧爆炸
 
 ![](hydrogen-oxygen-activation-energy.png)
 
 ---
 
-### 為什麼金屬不能放進微波爐？
+### 微波爐與金屬
 
 ![](microwave-metal-free-electron-sea.png)
 
@@ -165,55 +157,55 @@
 
 # ❄️ 第四章｜探索極端世界
 
-> 探索極端，看見新的世界。
+> 挑戰極端條件。
 
-### Episode 1｜火把放進液態氧會怎樣？
+### Episode 1
 
 ![](liquid-oxygen-episode-1-burning-torch.png)
 
 ---
 
-### Episode 2｜木炭真的會變成液氧炸彈嗎？
+### Episode 2
 
 ![](liquid-oxygen-episode-2-charcoal.png)
 
 ---
 
-### Episode 3｜氧分子為什麼會被磁鐵吸住？
+### Episode 3
 
 ![](liquid-oxygen-episode-3-paramagnetism.png)
 
 ---
 
-### Episode 4｜火箭為什麼一定要帶液態氧？
+### Episode 4
 
 ![](liquid-oxygen-episode-4-rockets.png)
 
 ---
 
-### Episode 5｜如何把氧氣變成液體？
+### Episode 5
 
 ![](liquid-oxygen-episode-5-liquefaction-process.png)
 
 ---
 
-### Episode 6｜零下 218.8°C 的藍色晶體
+### Episode 6
 
 ![](liquid-oxygen-episode-6-solid-oxygen.png)
 
 ---
 
-### Episode 7｜α-氧：反鐵磁性的秘密
+### Episode 7
 
 ![](liquid-oxygen-ep7-alpha-oxygen.png)
 
 ---
 
-# 🌿 第五章｜永續與綠色化學
+# 🌿 第五章｜永續與生活
 
-> 讓科學，走進生活。
+> 科學走進生活。
 
-### 植物如何變成纖維素酒精？
+### 纖維素酒精
 
 ![](cellulosic-ethanol-process.png)
 
@@ -227,15 +219,15 @@
 
 # 🧠 第六章｜Thinking Lab
 
-> 模型，永遠可以再修正。
+> 修正思考模型。
 
-### Episode 1｜從二氧化碳推測二硫化矽
+### 從 CO₂ 推測 SiS₂
 
 ![](thinking-lab-periodic-table-prediction.png)
 
 ---
 
-### Episode 2｜模型的邊界：規律，也有例外
+### 模型的邊界
 
 ![](thinking-lab-model-revision.png)
 
@@ -243,25 +235,15 @@
 
 # ❤️ 我想分享的
 
-知識會更新。
+保持好奇。
 
-模型會修正。
+保持謙遜。
 
-真正重要的，
+保持彈性。
 
-不是一直正確，
+每一次修正，
 
-而是始終保持：
-
-🌱 **好奇**
-
-🤝 **謙遜**
-
-🔄 **彈性**
-
-因為，
-
-**每一次修正，都是更接近事實的一步。**
+都是新的發現。
 
 ---
 
