@@ -9,7 +9,7 @@
 > **Every Discovery Begins with a Question.**
 
 一位小六學生，
-用漫畫記錄自己的思考旅程。
+用漫畫分享自己的思考旅程。
 
 🌱 **Curious** ｜ 🤝 **Humble** ｜ 🔄 **Flexible**
 
@@ -17,17 +17,13 @@
 
 ---
 
-# 👋 關於我
+# 👋 About
 
 大家好，我是 **Alchemist 119**。
 
 我喜歡提問。
 
-也喜歡用科學思考。
-
-每一篇漫畫，
-
-都記錄著一次新的發現。
+也喜歡把思考畫成漫畫。
 
 ---
 
@@ -49,27 +45,23 @@
 🎨 分享漫畫
 ```
 
-> **AI 不替我思考。**
+> **AI 不給我答案。**
 >
-> **AI 陪我提出更好的問題。**
+> **AI 陪我找到答案。**
 
 ---
 
 # 📚 Comic Collection
 
----
+## 🟡 第一章｜從生活開始
 
-# 🟡 第一章｜從生活開始
-
-> 從生活出發。
-
-### 為什麼建立 GitHub？
+### GitHub
 
 ![](comic1-why-this-github.png)
 
 ---
 
-### 我和 AI 一起思考
+### AI 思考
 
 ![](comic2-thinking-with-ai.png)
 
@@ -87,15 +79,13 @@
 
 ---
 
-### 洋芋片為什麼充氮氣？
+### 洋芋片充氮
 
 ![](potato-chips-nitrogen-packaging.png)
 
 ---
 
-# 🔵 第二章｜探索微觀世界
-
-> 看見看不見的世界。
+## 🔵 第二章｜探索微觀世界
 
 ### 黃金 vs 鐵
 
@@ -115,27 +105,25 @@
 
 ---
 
-### 吃黃金為什麼沒事？
+### 黃金與化學惰性
 
 ![](gold-chemical-inertness-food-safety.png)
 
 ---
 
-### Xe 為什麼能形成 XePtF₆？
+### XePtF₆
 
 ![](cover-noble-gas.png)
 
 ---
 
-### XePtF₆ 為什麼遇水會分解？
+### XePtF₆ 遇水
 
 ![](cover-atomic-castle.png)
 
 ---
 
-# 🔴 第三章｜理解化學反應
-
-> 理解能量變化。
+## 🔴 第三章｜理解化學反應
 
 ### 濃硫酸與水
 
@@ -155,55 +143,75 @@
 
 ---
 
-# ❄️ 第四章｜探索極端世界
+### 加拿大水力發電與金屬冶煉
 
-> 挑戰極端條件。
+![](canada-hydroelectric-metal-smelting.png)
 
-### Episode 1
+---
+
+### 尋找 119 號元素
+
+![](element-119-particle-accelerator.png)
+
+---
+
+## ❄️ 第四章｜探索極端世界
+
+### 液態氧 Episode 1
 
 ![](liquid-oxygen-episode-1-burning-torch.png)
 
 ---
 
-### Episode 2
+### 液態氧 Episode 2
 
 ![](liquid-oxygen-episode-2-charcoal.png)
 
 ---
 
-### Episode 3
+### 液態氧 Episode 3
 
 ![](liquid-oxygen-episode-3-paramagnetism.png)
 
 ---
 
-### Episode 4
+### 液態氧 Episode 4
 
 ![](liquid-oxygen-episode-4-rockets.png)
 
 ---
 
-### Episode 5
+### 液態氧 Episode 5
 
 ![](liquid-oxygen-episode-5-liquefaction-process.png)
 
 ---
 
-### Episode 6
+### 液態氧 Episode 6
 
 ![](liquid-oxygen-episode-6-solid-oxygen.png)
 
 ---
 
-### Episode 7
+### 液態氧 Episode 7
 
 ![](liquid-oxygen-ep7-alpha-oxygen.png)
 
 ---
 
-# 🌿 第五章｜永續與生活
+### 加拿大巨木
 
-> 科學走進生活。
+![](canada-temperate-rainforest-giant-trees.png)
+
+---
+
+### 加拿大洛磯山脈
+
+![](canadian-rockies-glacier-wildfire.png)
+
+---
+
+## 🌿 第五章｜永續與生活
 
 ### 纖維素酒精
 
@@ -217,11 +225,15 @@
 
 ---
 
-# 🧠 第六章｜Thinking Lab
+### 鐵軌碎石
 
-> 修正思考模型。
+![](railway-ballast-engineering.png)
 
-### 從 CO₂ 推測 SiS₂
+---
+
+## 🧠 第六章｜Thinking Lab
+
+### CO₂ → SiS₂
 
 ![](thinking-lab-periodic-table-prediction.png)
 
@@ -233,29 +245,15 @@
 
 ---
 
-# ❤️ 我想分享的
-
-保持好奇。
-
-保持謙遜。
-
-保持彈性。
-
-每一次修正，
-
-都是新的發現。
-
----
-
 <div align="center">
 
 ## Learn Through Thinking.
 
-🌱 Keep Curious.
+🌱 Curious
 
-🤝 Stay Humble.
+🤝 Humble
 
-🔄 Stay Flexible.
+🔄 Flexible
 
 ---
 
