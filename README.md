@@ -129,6 +129,36 @@
 
 ---
 
+### 電子拔河
+
+![](electronegativity-electron-tug-of-war.png)
+
+---
+
+### 距離平方律
+
+![](inverse-square-law-atomic-force.png)
+
+---
+
+### 保蔽效應
+
+![](effective-nuclear-charge-electron-shielding.png)
+
+---
+
+### 軌域混成
+
+![](carbon-hybridization-electronegativity.png)
+
+---
+
+### 電負度總整理
+
+![](electronegativity-summary.png)
+
+---
+
 ## 🔴 第三章｜理解化學反應
 
 ### 濃硫酸與水
