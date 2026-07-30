@@ -123,6 +123,12 @@
 
 ---
 
+### 金屬延展性
+
+![](metal-ductility-nonmetal-brittleness.png)
+
+---
+
 ## 🔴 第三章｜理解化學反應
 
 ### 濃硫酸與水
@@ -152,6 +158,12 @@
 ### 尋找 119 號元素
 
 ![](element-119-particle-accelerator.png)
+
+---
+
+### 二氧化碳三態
+
+![](carbon-dioxide-phase-diagram-supercritical-fluid.png)
 
 ---
 
